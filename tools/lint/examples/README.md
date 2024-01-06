@@ -534,3 +534,4 @@ $ yanglint -f json -t config -p . -Y sm-context-main.xml -x sm-context-extension
   }
 }
 ```
+tools/lint/examples/README.md
